@@ -1,4 +1,4 @@
-@import 'navbar';
+@import '_navbar';
 
 * {
     box-sizing: border-box;
