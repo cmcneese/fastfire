@@ -50,6 +50,7 @@
   },
   "dependencies": {
     "jquery": "^3.4.0",
+    "lodash.template": "^4.5.0",
     "node-sass": "^4.11.0"
   }
 }
